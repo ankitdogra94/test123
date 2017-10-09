@@ -1,0 +1,26 @@
+step 1
+after creating  desktop application and remote repository online new repositories are created both in online and offline
+
+step 2
+offline new repository is created by ctrl+n further multiple repositories can be created from add repository
+
+step 3
+for creating the new repository online, click on repository and then new.
+
+step 4
+the url is copied and then on the desktop application in clone repository tab enter thr url
+
+step 5
+in any of the folder make a txt file. do the editing in the txt file, further the changes have to be saved or commit to the master.
+in the history tab all the changes will be reflected.
+
+step6
+in order to sink the changes done offline, click on publish repositories therefore all the changes made will be reflected after refreshing the account online.
+
+
+10/09/2017
+1) create pull request option is done on the repository which is local to your machine. 
+2) this pull request will be opened in the cloud server changes will be created if different content is available after clicking on merge pull request all the contents of the particular branch to one master will be same
+3) also we can merge and update the contents into a branch and a master locally. after that it is necessary to syncthe contents of one another.
+4) we can also compare across forks in order to see the changes of a master and a branch.
+5) there is always one pull request of a branch and a master.
